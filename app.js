@@ -14,3 +14,11 @@
 
 //****** Chapter # 2 *******//
 //Task No. 1
+//var username= "Sheeza";
+//console.log(username)
+//Task No. 2
+//var myName="Sheeza Raees"
+//console.log(myName)
+//Task No. 3
+//var message="Hello World";
+//alert(message);
